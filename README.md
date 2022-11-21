@@ -45,10 +45,10 @@
 <!--   <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">  -->  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandru793&show_icons=true&locale=en&layout=compact" alt="chandru793" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandru793&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="chandru793" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandru793&show_icons=true&locale=en" alt="chandru793" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandru793&show_icons=true&locale=en&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="chandru793" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandru793&" alt="chandru793" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandru793&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="chandru793" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandru793" alt="chandru793" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img src="https://github-profile-trophy.vercel.app/?username=chandru793" alt="chandru793" /></a> </p>
