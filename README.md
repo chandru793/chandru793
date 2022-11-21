@@ -51,4 +51,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandru793&theme=dark&border=DD88D5&background=0C0C0C&currStreakNum=E289F4&stroke=DD85D1&ring=DD83D7&fire=D874DD&sideNums=D578DD&currStreakLabel=C988DD&sideLabels=DD8CDA&dates=D7BDDD" alt="chandru793" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandru793" alt="chandru793" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandru793" alt="chandru793" /></a> </p> -->
+
+[![Chandru's github activity graph](https://activity-graph.herokuapp.com/graph?username=chandru793&bg_color=0a0a0a&color=e6e0e6&line=ce83c9&point=e5c2c2&area=true&hide_border=true)](https://github.com/chandru793/github-readme-activity-graph)
