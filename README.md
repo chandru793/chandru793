@@ -47,7 +47,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandru793&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="chandru793" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandru793&show_icons=true&locale=en&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="chandru793" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandru793&show_icons=true&locale=en&title_color=ffffff&icon_color=bb2acf&text_color=E289F4&bg_color=151515" alt="chandru793" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandru793&theme=dark&border=DD88D5&background=0C0C0C&currStreakNum=E289F4&stroke=DD85D1&ring=DD83D7&fire=D874DD&sideNums=D578DD&currStreakLabel=C988DD&sideLabels=DD8CDA&dates=D7BDDD" alt="chandru793" /></p>
 
