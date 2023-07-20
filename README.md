@@ -53,4 +53,4 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandru793" alt="chandru793" /></a> </p> -->
 
-[![Chandru's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chandru793&bg_color=0a0a0a&color=e6e0e6&line=ce83c9&point=e5c2c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Chandru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandru793&bg_color=0a0a0a&color=e6e0e6&line=ce83c9&point=e5c2c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
