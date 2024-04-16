@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com](https://github.com/chandru793)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js**
 
 - 📫 How to reach me **chandruchan793@gmail.com**
 
